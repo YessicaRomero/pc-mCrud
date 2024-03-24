@@ -1,0 +1,22 @@
+{
+  "series": [
+    {
+      "title": "Stranger Things",
+      "duration": "60 minutos",
+      "id": "1",
+      "genero": "Ciencia ficción, Drama, Terror"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "d508",
+      "title": "juego del miedo",
+      "duration": "40 minutos",
+      "genero": "dramatico"
+    }
+  ]
+}
