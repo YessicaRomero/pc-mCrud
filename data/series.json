@@ -7,16 +7,22 @@
       "genero": "Ciencia ficción, Drama, Terror"
     },
     {
+      "title": "noche magica",
+      "duration": 356,
+      "artist": "Chano",
       "id": "2"
-    },
-    {
-      "id": "3"
     },
     {
       "id": "d508",
       "title": "juego del miedo",
       "duration": "40 minutos",
       "genero": "dramatico"
+    },
+    {
+      "id": "dccc",
+      "title": "como un lobo",
+      "duration": 356,
+      "artist": "Guasones"
     }
   ]
 }
